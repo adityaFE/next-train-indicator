@@ -48,3 +48,6 @@ export default tseslint.config({
   },
 })
 ```
+
+
+The deployed link of the application is: https://next-train-indicator.netlify.app/
